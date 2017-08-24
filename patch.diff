@@ -1,0 +1,29 @@
+From c81c93a446f0f6cc077b61393a368c100ae3b432 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?=EC=9D=B4=EC=8B=A0=EC=98=81?= <wassup@chunjae.co.kr>
+Date: Thu, 24 Aug 2017 14:47:10 +0900
+Subject: [PATCH] =?UTF-8?q?=EC=8A=A4=ED=85=8C=EC=8B=9C?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ gitfth.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/gitfth.html b/gitfth.html
+index b76dc8b..58b1caf 100644
+--- a/gitfth.html
++++ b/gitfth.html
+@@ -24,7 +24,7 @@
+ 	<li>pull.new_worker</li>
+ 	<li>conflict.new_worker</li>
+ 	<li>conflict2.wassup.new_worker</li>
+-	<li>스테시</li>
++	<li>stash</li>
+ </ul>
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.13.2.windows.1
+
